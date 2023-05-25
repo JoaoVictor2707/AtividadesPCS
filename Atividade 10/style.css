@@ -1,0 +1,72 @@
+
+body{
+	background-color:#a6ccf7;
+}
+/* Estilos para tabela */
+table {
+  border-collapse: collapse;
+  width: 700px;
+  height: 80px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+table td, table th {
+  border: 0px solid #000000;
+  padding: 20px;
+  width: 1000px;
+  height: 80px;
+}
+
+table th {
+  background-color: #a6ccf7;
+}
+
+/* Estilos para parágrafo */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Estilos para formulário */
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+form label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Estilos para botões */
+button,
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover,
+input[type="submit"]:hover {
+  background-color: #3e8e41;
+}

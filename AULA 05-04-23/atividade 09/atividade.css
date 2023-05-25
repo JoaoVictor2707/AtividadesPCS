@@ -1,0 +1,27 @@
+p{
+	color: red;
+	font-family:Arial,Times New Roman;
+	font-size:40px;
+	background-color:black;
+	border:10px solid white;
+	margin:70px;
+	padding:40px;
+	width:1000px;
+	height:800px;
+	text-align:center;
+}
+ol{
+	color: red;
+	font-family:Arial,Times New Roman;
+	font-size:36px;
+	background-color:black;
+	border:10px solid white;
+	margin:70px;
+	padding:40px;
+	width:1000px;
+	height:800px;
+	text-align:left;
+}
+body{
+	background-color:#03cafc;
+	}
